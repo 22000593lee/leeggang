@@ -6,5 +6,5 @@ using namespace std;
 
 int main()
 {
-    
+    FILE* fp = fopen("hw4_.data.txt", "r");
 }
